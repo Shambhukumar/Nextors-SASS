@@ -1,0 +1,5 @@
+SIMPLE PROJECT FOR USING THE CSS GRID LAYOUT 
+WHILE LEARNING SASS
+
+PLEASE VISIT = https://nextors-sass.herokuapp.com/
+
