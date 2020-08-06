@@ -1,5 +1,5 @@
-SIMPLE PROJECT FOR USING THE CSS GRID LAYOUT 
-WHILE LEARNING SASS
+## Advanced Css Sass
+**Made The layout using Advanced Css, Grid, Flexbox and Sass and all the advanced techniques also used 7 in one architecture** 
 
-PLEASE VISIT = https://nextors-sass.herokuapp.com/
+**Please Visit = https://nextors-sass.herokuapp.com/**
 
